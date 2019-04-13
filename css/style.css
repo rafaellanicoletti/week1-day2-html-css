@@ -1,27 +1,30 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
-
-
-  
-/*actual work*/
-
 
   body {
-      background-color: #efeee7
+      background-color: #efeee7;
+      margin: 0;
+      padding: 0;
+      
   }
 
   p {
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: #333333
   }
+
+  header {
+      background-color: #333333;
+
+  }
+
+  h1 {
+      color: #eee;
+      font-size: 28px;
+      margin: 0;
+      padding: 0;
+
+      }
+
+  h2 {
+      font-size: 24px;
+      
+  }    
