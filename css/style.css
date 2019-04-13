@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+
+  
+/*actual work*/
+
+
+  body {
+      background-color: #efeee7
+  }
+
+  p {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #333333
+  }
